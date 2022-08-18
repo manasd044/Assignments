@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"Name:Manas Das\nAge:21";
+	cout<<"+\n++\n+++\n";
 	return 0;
 }
